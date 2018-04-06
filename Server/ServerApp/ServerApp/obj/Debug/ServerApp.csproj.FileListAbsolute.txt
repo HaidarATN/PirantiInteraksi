@@ -1,0 +1,7 @@
+E:\ExceptProgramFiles\I'm gonna be a great developer\Sem6\Fahim\Test Game Jaringan 1\Test1\Server\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+E:\ExceptProgramFiles\I'm gonna be a great developer\Sem6\Fahim\Test Game Jaringan 1\Test1\Server\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+E:\ExceptProgramFiles\I'm gonna be a great developer\Sem6\Fahim\Test Game Jaringan 1\Test1\Server\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+E:\ExceptProgramFiles\I'm gonna be a great developer\Sem6\Fahim\Test Game Jaringan 1\Test1\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+E:\ExceptProgramFiles\I'm gonna be a great developer\Sem6\Fahim\Test Game Jaringan 1\Test1\Server\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+E:\ExceptProgramFiles\I'm gonna be a great developer\Sem6\Fahim\Test Game Jaringan 1\Test1\Server\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+E:\ExceptProgramFiles\I'm gonna be a great developer\Sem6\Fahim\Test Game Jaringan 1\Test1\Server\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
